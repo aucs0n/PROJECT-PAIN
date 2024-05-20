@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1714912212 source:c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\hash.c
+	"hash.h"
+
+1714912775 c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\hash.h
+	<stdio.h>
+	<stdlib.h>
+
+1714912199 source:c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\main.c
+	"hash.h"
+

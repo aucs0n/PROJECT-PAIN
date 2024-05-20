@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1713082160 source:c:\users\asus\downloads\whatever\avl himmel\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"avlHeader.h"
+
+1713082155 c:\users\asus\downloads\whatever\avl himmel\avlheader.h
+
+1713082165 source:c:\users\asus\downloads\whatever\avl himmel\main (1).c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"avlHeader.h"
+

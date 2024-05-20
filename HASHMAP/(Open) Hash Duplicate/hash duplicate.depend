@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1715586255 source:c:\users\vincent\documents\code-tank\dsa (cpe 1202)\hash duplicate\hash.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.h"
+
+1715586255 c:\users\vincent\documents\code-tank\dsa (cpe 1202)\hash duplicate\hash.h
+
+1715586255 source:c:\users\vincent\documents\code-tank\dsa (cpe 1202)\hash duplicate\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.h"
+

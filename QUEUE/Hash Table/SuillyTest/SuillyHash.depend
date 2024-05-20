@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1715166959 source:c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\arrayinitializer.c
+	<stdlib.h>
+	"header.h"
+	"primeChecking.c"
+
+1715166932 c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\header.h
+
+1715166911 c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\primechecking.c
+	<stdlib.h>
+	<math.h>
+	"header.h"
+
+1715166954 source:c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\deletion.c
+	<stdlib.h>
+	<stdio.h>
+	"header.h"
+
+1715166949 source:c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\displaying.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1715166928 source:c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\insertion.c
+	<stdlib.h>
+	<stdio.h>
+	"header.h"
+
+1715166915 source:c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"header.h"
+	"insertion.c"
+	"deletion.c"
+	"sizeCheck.c"
+	"displaying.c"
+	"hashFunction.c"
+	"arrayInitializer.c"
+
+1715166928 c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\insertion.c
+	<stdlib.h>
+	<stdio.h>
+	"header.h"
+
+1715166954 c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\deletion.c
+	<stdlib.h>
+	<stdio.h>
+	"header.h"
+
+1715167227 c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\sizecheck.c
+	<stdlib.h>
+	"header.h"
+
+1715166949 c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\displaying.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1715167150 c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\hashfunction.c
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1715166959 c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\arrayinitializer.c
+	<stdlib.h>
+	"header.h"
+	"primeChecking.c"
+
+1715166911 source:c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\primechecking.c
+	<stdlib.h>
+	<math.h>
+	"header.h"
+
+1715167150 source:c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\hashfunction.c
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1715167150 source:c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\hash table\suillytest\sizecheck.c
+	<stdlib.h>
+	"header.h"
+

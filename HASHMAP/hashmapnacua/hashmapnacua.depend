@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1714700828 source:c:\users\asus\downloads\whatever\hashmapnacua\hash.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	"hash.h"
+
+1714699888 c:\users\asus\downloads\whatever\hashmapnacua\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+
+1714701854 source:c:\users\asus\downloads\whatever\hashmapnacua\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	"hash.h"
+

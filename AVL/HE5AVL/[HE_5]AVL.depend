@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1714398342 source:c:\users\user6969\desktop\codeblocks\[he_5]avl\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"avl.h"
+
+1714398342 c:\users\user6969\desktop\codeblocks\[he_5]avl\avl.h
+	<stdbool.h>
+
+1714398342 source:c:\users\user6969\desktop\codeblocks\[he_5]avl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"avl.h"
+
+1714399167 source:c:\users\asus\downloads\whatever\he5avl\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"avl.h"
+
+1714399167 c:\users\asus\downloads\whatever\he5avl\avl.h
+	<stdbool.h>
+
+1714399167 source:c:\users\asus\downloads\whatever\he5avl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"avl.h"
+

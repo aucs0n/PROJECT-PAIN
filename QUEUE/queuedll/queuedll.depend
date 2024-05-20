@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1713081791 source:c:\users\asus\downloads\whatever\queuedll\main (1).c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"queueDLL.h"
+
+1713081058 source:c:\users\asus\downloads\whatever\queuedll\queuesll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"queueSLL.h"
+
+1713081021 source:c:\users\asus\downloads\whatever\queuedll\queuedll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"queueDLL.h"
+
+1713081032 c:\users\asus\downloads\whatever\queuedll\queuedll.h
+

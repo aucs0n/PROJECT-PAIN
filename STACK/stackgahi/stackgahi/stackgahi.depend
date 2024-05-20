@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1713101747 source:c:\users\asus\downloads\whatever\stackgahi\stackgahi\main.c
+	"stack.h"
+
+1713101747 c:\users\asus\downloads\whatever\stackgahi\stackgahi\stack.h
+	<stdio.h>
+	<stdlib.h>
+
+1713101747 source:c:\users\asus\downloads\whatever\stackgahi\stackgahi\stack.c
+	"stack.h"
+

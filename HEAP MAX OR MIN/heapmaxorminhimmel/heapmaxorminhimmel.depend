@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713082704 source:c:\users\asus\downloads\whatever\heapmaxorminhimmel\main (1).c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

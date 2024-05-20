@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1715717245 source:c:\users\vinka\downloads\code dump finals\(stack) infix to postfix conversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1715716996 c:\users\vinka\downloads\code dump finals\(stack) infix to postfix conversion\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1715717245 source:c:\users\vinka\downloads\code dump finals\(stack) infix to postfix conversion\functions.c
+	"functions.h"
+

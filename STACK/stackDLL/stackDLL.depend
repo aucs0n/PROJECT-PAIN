@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1713081864 source:c:\users\asus\downloads\whatever\stackdll\stackdll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"stackDLL.h"
+
+1713081868 c:\users\asus\downloads\whatever\stackdll\stackdll.h
+

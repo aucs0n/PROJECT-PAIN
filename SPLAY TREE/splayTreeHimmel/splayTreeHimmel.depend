@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713082805 source:c:\users\asus\downloads\whatever\splaytreehimmel\main (1).c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+

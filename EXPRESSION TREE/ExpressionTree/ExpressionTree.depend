@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1712036020 source:c:\users\asus\downloads\whatever\expressiontree\expressiontree.c
+	<stdio.h>
+	<stdlib.h>
+	"expressiontree.h"
+
+1712035392 c:\users\asus\downloads\whatever\expressiontree\expressiontree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1712035577 source:c:\users\asus\downloads\whatever\expressiontree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"expressiontree.h"
+

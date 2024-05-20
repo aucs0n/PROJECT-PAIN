@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1710921593 source:c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\stack\stacking program\main.c
+	"stack.h"
+
+1710921642 c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\stack\stacking program\stack.h
+	<stdio.h>
+	<stdlib.h>
+
+1710919138 source:c:\users\remy gabriel cordero\documents\github\code-tank\dsa (cpe 1202)\stack\stacking program\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"stack.h"
+

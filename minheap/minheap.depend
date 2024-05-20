@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1714902133 source:c:\users\jacob\downloads\cpelab\cpe1202l\minheap\main.c
+	<stdio.h>
+	<stdlib.h>
+	"minheap.h"
+
+1714902197 c:\users\jacob\downloads\cpelab\cpe1202l\minheap\minheap.h
+
+1714902133 source:c:\users\jacob\downloads\cpelab\cpe1202l\minheap\minheap.c
+	<stdio.h>
+	<stdlib.h>
+	"minheap.h"
+

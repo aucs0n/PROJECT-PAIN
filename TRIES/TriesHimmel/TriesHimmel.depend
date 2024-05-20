@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713082914 source:c:\users\asus\downloads\whatever\trieshimmel\main (1).c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+

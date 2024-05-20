@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1713082057 source:c:\users\asus\downloads\whatever\stacksll\stacksll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"stackSLL.h"
+
+1713082060 c:\users\asus\downloads\whatever\stacksll\stacksll.h
+
